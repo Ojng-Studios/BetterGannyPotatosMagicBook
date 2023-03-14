@@ -1,1 +1,3 @@
-# BetterGannyPotatosMagicBook
+# Better Ganny Potato's Magic Book 更好的盖尼土豆魔法书
+A Fixed Version Of [Ganny Potato's Magic Book](https://github.com/Ojng-Studios/GannyPotatosMagicBook).  
+The Mod Is Remaking...
