@@ -1,0 +1,16 @@
+{
+  "group": "bgpmb",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bgpmb:potatomagiccircle"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "minecraft:potato",
+    "count": 64
+  }
+}

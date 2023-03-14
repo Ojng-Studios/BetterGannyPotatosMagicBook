@@ -1,0 +1,143 @@
+{
+  "id_map": {
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Potatomagiccircle",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatomagiccircle"
+    },
+    {
+      "name": "Bgpmbtab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgpmbtab"
+    },
+    {
+      "name": "Potatobook",
+      "type": "gui",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "potatobook"
+    },
+    {
+      "name": "Potatobook1",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatobook_1"
+    },
+    {
+      "name": "Potatobook2",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatobook_2"
+    },
+    {
+      "name": "Potatomagiccircle1",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatomagiccircle_1"
+    },
+    {
+      "name": "Potato",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potato"
+    },
+    {
+      "name": "Potatobook1RightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatobook_1_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabbgpmbtab": "Better Ganny Potatos Magic Book",
+      "item.potatomagiccircle.name": "Potato Magic Circle",
+      "item.potatobook_1.name": "Potato Book"
+    },
+    "zh_cn": {
+      "itemGroup.tabbgpmbtab": "更好的盖尼土豆的魔法书",
+      "item.potatomagiccircle.name": "土豆魔法阵",
+      "item.potatobook_1.name": "土豆之书"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "bgpmb",
+    "modName": "BetterGannyPotatosMagicBook",
+    "version": "0.0.1",
+    "description": "A Magic Mod That Can Bring You Countless Potatoes~",
+    "author": "BunnimimiTotem",
+    "websiteURL": "https://github.com/Ojng-Studios/BetterGannyPotatosMagicBook",
+    "license": "DPTDPL",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Ojng Studios, Ganny Potato, MCreator",
+    "modElementsPackage": "io.github.busituteng.bgpmb",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

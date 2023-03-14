@@ -1,0 +1,40 @@
+{
+  "group": "bgpmb",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "3": {
+      "item": "minecraft:potato"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:potato"
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "8": {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "bgpmb:potatobook_1",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "potatobook",
+    "customModelName": "Normal",
+    "name": "Potato Book",
+    "rarity": "RARE",
+    "creativeTab": {
+      "value": "CUSTOM:Bgpmbtab"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Ganny Potato's Magic Book!"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 0,
+    "inventoryStackSize": 64,
+    "onRightClickedOnBlock": {
+      "name": "Potatobook1RightClickedOnBlock"
+    }
+  }
+}

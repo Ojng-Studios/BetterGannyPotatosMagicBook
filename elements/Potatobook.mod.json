@@ -1,0 +1,51 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 170,
+    "height": 220,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "logopng.png",
+          "use1Xscale": false,
+          "name": "logopng.png",
+          "x": 133,
+          "y": 15
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "You Can Get Coutless Potatos With Potato Magic Circle~",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "You Can Get Coutless Potatos With Potato Magic Circle~",
+          "x": 78,
+          "y": 184
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "(The End)",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "(The End)",
+          "x": 188,
+          "y": 203
+        }
+      }
+    ]
+  }
+}

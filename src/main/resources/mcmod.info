@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "bgpmb",
+    "name": "BetterGannyPotatosMagicBook",
+    "description": "A Magic Mod That Can Bring You Countless Potatoes~",
+    "version": "0.0.1",
+    "credits": "Ojng Studios, Ganny Potato, MCreator",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Ojng-Studios/BetterGannyPotatosMagicBook",
+    "updateUrl": "",
+    "authorList": [
+      "BunnimimiTotem"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

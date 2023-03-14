@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Better Ganny Potatos Magic Book",
+    "icon": {
+      "value": "CUSTOM:Potatomagiccircle"
+    },
+    "showSearch": false
+  }
+}
